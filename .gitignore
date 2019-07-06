@@ -1,3 +1,9 @@
+# RFG: skip folders with nhl data
+nhl_game_data
+
+# RFG: skip the resulting database file
+baseball.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
