@@ -1,11 +1,11 @@
 # New York Mets Improvement Project
 Code Louisville Python Project July 2019
 
-## Question
-How can the New York Mets improve?
-
 ## Background
-The New York Mets are a National League baseball team.  They are perenially bad and I am a frustrated fan looking for ways to improve the club.
+The `New York Mets` are a National League baseball team.  They are perenially bad and I am a frustrated fan looking for ways to improve the club.
+
+## Question
+Is there one area where the `New York Mets` can look to improve the most?  Where would the `Mets` get the most bang for their buck?
 
 ## Overview
 
@@ -21,8 +21,8 @@ From this data, I used a subset of the files:
 * Pitching.csv
 * Teams.csv
 
-### Analysis/Display
-
+### Analysis
+The `Mets` starting pitching was well above league average; however, their relief pitching was below average.  They didn't hit well either, but if they could only improve their bullpen they would be a much better club.
 
 ## Glossary
 
